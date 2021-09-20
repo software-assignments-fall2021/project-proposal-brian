@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chef Story (Project Proposal)
 By Brian Rios
 
@@ -14,3 +15,7 @@ Users who seek education and entertainment will be able to browse a variety of c
 
 ### Scope
 This recipe app/social media platform will be an interesting challenge to take on, yet feasible. At this point, most of us already have an idea of how user data can be managed in the backend. While most of us are not familiar with creating graphical user interfaces, this project is meant to have a minimalist design. With applications like SnapChat, Instagram, and Facebook, who have already integrated stories into their platforms, the developers that would work on this solution already have a strong visualization of what the end goal is. 
+=======
+# Project Proposal
+Hello
+>>>>>>> a2beabef52c762a0aeb4f67d5f2b2adf8aed5e91
